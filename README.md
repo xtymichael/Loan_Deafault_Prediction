@@ -10,6 +10,6 @@ This is a team project for a competition sponsored by researchers at Imperial Co
 
 We used two-stage gradient boosted regression tree to minimize mean absolute error.
 
-[Our model approach](https://github.com/xtymichael/Loan_Deafault_Prediction/blob/master/Loan%20Default%20Prediction%20Report.pdf)
+[Our model approach](Loan_Deafault_Prediction/model approach and code/Loan Default Prediction Report.pdf)
 
 Rank: 71 out of 675 teams
